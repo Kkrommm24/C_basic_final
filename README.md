@@ -1,7 +1,7 @@
 # C_basic_final
 Booking a hotel room
 
-This program generate a menu using BST and Linked List
+This program generates a menu using BST and Linked List
 
 You can choose the number corresponding to the following functions
 
