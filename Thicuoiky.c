@@ -339,7 +339,7 @@ int main(){
             printf("Ban can chon trong khoang 1-8!\n");
             break;
         }
-        if(key == 8) break;
+        if(key == 7) break;
       }while(1);
     return 0;
 }
